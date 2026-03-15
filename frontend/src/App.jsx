@@ -39,7 +39,7 @@ export default function App() {
       <header className="text-center py-14 px-6">
         <div className="inline-flex items-center gap-2 bg-ink-100 border border-ink-200 rounded-full px-4 py-1.5 mb-6 font-mono text-xs text-ink-500 tracking-widest uppercase">
           <span className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse inline-block" />
-          Powered by GPT
+          Help us to generaqte better blogs
         </div>
         <h1 className="font-display text-5xl md:text-6xl font-bold text-ink-950 leading-tight mb-4">
           AI Blog
